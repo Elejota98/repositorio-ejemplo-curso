@@ -1,0 +1,3 @@
+secretos
+
+/bin/
